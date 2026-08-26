@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T05:41:37.703674+00:00",
+  "generatedAt": "2026-08-26T05:43:36.050198+00:00",
   "monthsCovered": [
     "2026-08"
   ],
@@ -26,200 +26,13 @@
   "events": [
     {
       "title": "Das »Digital-Zebra« - Die öffentliche Digital-Beratung",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "11:00–13:00",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Kurt-Tucholsky-Bibliothekin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=210829&ls=0&c=327&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Das »Digital-Zebra« - Die öffentliche Digital-Beratung",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "13:00–15:00",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Schiller-Bibliothekin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=285670&ls=0&c=327&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Gemeinsam Häkeln",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "15:00–17:30",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Bibliothek Tiergarten-Südin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=276751&ls=0&c=327&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Hausaufgabenhilfe für die 1.-6. Klasse",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "15:00–18:00",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Kurt-Tucholsky-Bibliothekin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=289145&ls=0&c=327&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Hausaufgabenhilfe für die 3.-6. Klasse",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "15:00–18:00",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Bruno-Lösche-Bibliothekin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=289133&ls=0&c=327&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Drinnen oder draußen spielen",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "15:30–17:00",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Bibliothek am Luisenbadin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=266308&ls=0&c=327&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Mal Mal Mit(twoch)",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "15:30–17:00",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Bibliothek am Luisenbadin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=233290&ls=0&c=327&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Mit Holzresten und Moos Landschaftsbilder gestalten",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "16:00–19:00",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Schiller-Bibliothekin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=270628&ls=0&c=327&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Wortlaut: LernBike „Sprache gemeinsam erleben”",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "16:00–18:00",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Bibliothek am Luisenbadin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=275644&ls=0&c=327&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Hausaufgabenhilfe für die 1.-6. Klasse",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "16:00–18:00",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Philipp-Schaeffer-Bibliothekin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=289115&ls=0&c=327&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Hausaufgabenhilfe für die 1.-6. Klasse",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "16:00–18:00",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Bibliothek am Luisenbadin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=289121&ls=10&c=327&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Hausaufgabenhilfe für die 1.-10. Klasse („Lern mit mir!“)",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "16:00–18:00",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Schiller-Bibliothekin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=289127&ls=10&c=327&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Das »Digital-Zebra« - Die öffentliche Digital-Beratung",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "16:00–18:00",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Schiller-Bibliothekin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=285670&ls=10&c=327&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Vorlesestunden mit Lesewelt Berlin e.V. in der Schiller-Bibliothek",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "16:15–17:15",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Schiller-Bibliothekin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=287122&ls=10&c=327&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Vorlesen für Kinder in der Kurt-Tucholsky-Bibliothek",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "16:30–17:30",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Kurt-Tucholsky-Bibliothekin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=287125&ls=10&c=327&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Offenes Stickcafé",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "17:00–19:00",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Philipp-Schaeffer-Bibliothekin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=266281&ls=10&c=327&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "SHARED READING",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "18:00–19:00",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Hansabibliothekin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=274021&ls=10&c=327&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Das »Digital-Zebra« - Die öffentliche Digital-Beratung",
       "date": "2026-08-26",
       "dateLabel": "26.08.2026",
       "time": "10:00–12:00",
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=285670&ls=10&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=285670&ls=0&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -230,7 +43,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Kurt-Tucholsky-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=210829&ls=10&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=210829&ls=0&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -241,7 +54,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=251032&ls=10&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=251032&ls=0&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -252,7 +65,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=285670&ls=20&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=285670&ls=0&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -263,7 +76,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=289883&ls=20&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=289883&ls=0&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -274,7 +87,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek am Luisenbadin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=266308&ls=20&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=266308&ls=0&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -285,29 +98,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek Tiergarten-Südin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=289148&ls=20&c=327&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Gaming Lounge in der Bibliothek am Luisenbad",
-      "date": "2026-08-26",
-      "dateLabel": "26.08.2026",
-      "time": "15:30–18:30",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Bibliothek am Luisenbadin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=273964&ls=20&c=327&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Mal Mal Mit(twoch)",
-      "date": "2026-08-26",
-      "dateLabel": "26.08.2026",
-      "time": "15:30–17:00",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Bibliothek am Luisenbadin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=233290&ls=20&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=289148&ls=0&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -318,7 +109,29 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek am Luisenbadin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=233290&ls=20&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=233290&ls=0&c=327&date_start=26.08.2026",
+      "recurring": false
+    },
+    {
+      "title": "Mal Mal Mit(twoch)",
+      "date": "2026-08-26",
+      "dateLabel": "26.08.2026",
+      "time": "15:30–17:00",
+      "library": "Stadtbibliothek Berlin-Mitte",
+      "location": "Bibliothek am Luisenbadin Mitte",
+      "desc": "",
+      "link": "https://www.berlin.de/index.php?detail=233290&ls=0&c=327&date_start=26.08.2026",
+      "recurring": false
+    },
+    {
+      "title": "Gaming Lounge in der Bibliothek am Luisenbad",
+      "date": "2026-08-26",
+      "dateLabel": "26.08.2026",
+      "time": "15:30–18:30",
+      "library": "Stadtbibliothek Berlin-Mitte",
+      "location": "Bibliothek am Luisenbadin Mitte",
+      "desc": "",
+      "link": "https://www.berlin.de/index.php?detail=273964&ls=0&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -329,7 +142,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bruno-Lösche-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=236923&ls=20&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=236923&ls=10&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -340,7 +153,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Hansabibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=233296&ls=20&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=233296&ls=10&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -351,7 +164,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek am Luisenbadin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=289121&ls=20&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=289121&ls=10&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -362,7 +175,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=289127&ls=30&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=289127&ls=10&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -373,7 +186,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bruno-Lösche-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=287128&ls=30&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=287128&ls=10&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -384,7 +197,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=283909&ls=30&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=283909&ls=10&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -395,7 +208,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Philipp-Schaeffer-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=200762&ls=30&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=200762&ls=10&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -406,7 +219,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek am Luisenbadin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=233917&ls=30&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=233917&ls=10&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -417,7 +230,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=285670&ls=30&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=285670&ls=10&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -428,7 +241,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Kurt-Tucholsky-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=233446&ls=30&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=233446&ls=10&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -439,7 +252,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek am Luisenbadin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=266308&ls=30&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=266308&ls=20&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -450,7 +263,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek am Luisenbadin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=273964&ls=30&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=273964&ls=20&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -461,7 +274,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek am Luisenbadin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=233290&ls=30&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=233290&ls=20&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -472,7 +285,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=283930&ls=40&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=283930&ls=20&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -483,7 +296,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek am Luisenbadin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=233278&ls=40&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=233278&ls=20&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -494,7 +307,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek Tiergarten-Südin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=287131&ls=40&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=287131&ls=20&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -505,7 +318,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Philipp-Schaeffer-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=289115&ls=40&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=289115&ls=20&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -516,7 +329,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek am Luisenbadin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=289121&ls=40&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=289121&ls=20&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -527,7 +340,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bruno-Lösche-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=289133&ls=40&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=289133&ls=20&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -538,7 +351,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Kurt-Tucholsky-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=210829&ls=40&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=210829&ls=20&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -549,7 +362,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=289127&ls=40&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=289127&ls=30&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -560,7 +373,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Philipp-Schaeffer-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=279655&ls=40&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=279655&ls=30&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -571,7 +384,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Hansabibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=195237&ls=40&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=195237&ls=30&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -582,7 +395,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=285670&ls=50&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=285670&ls=30&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -593,7 +406,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek Tiergarten-Südin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=285256&ls=50&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=285256&ls=30&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -604,7 +417,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek am Luisenbadin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=227019&ls=50&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=227019&ls=30&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -615,7 +428,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Kurt-Tucholsky-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=210829&ls=50&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=210829&ls=30&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -626,7 +439,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek am Luisenbadin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=275656&ls=50&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=275656&ls=30&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -637,7 +450,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Kurt-Tucholsky-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=289145&ls=50&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=289145&ls=30&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -648,7 +461,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek am Luisenbadin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=266308&ls=50&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=266308&ls=30&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -659,7 +472,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek am Luisenbadin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=233290&ls=50&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=233290&ls=40&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -670,7 +483,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Kurt-Tucholsky-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=285259&ls=50&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=285259&ls=40&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -681,7 +494,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Stadtbibliothek Berlin-Mittein Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=261745&ls=50&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=261745&ls=40&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -692,7 +505,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=289127&ls=60&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=289127&ls=40&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -703,7 +516,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Philipp-Schaeffer-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=283954&ls=60&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=283954&ls=40&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -714,7 +527,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Philipp-Schaeffer-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=287113&ls=60&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=287113&ls=40&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -725,7 +538,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek am Luisenbadin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=235051&ls=60&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=235051&ls=40&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -736,7 +549,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=286711&ls=60&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=286711&ls=40&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -747,7 +560,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Hansabibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=285271&ls=60&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=285271&ls=40&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -758,7 +571,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=285262&ls=60&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=285262&ls=40&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -769,7 +582,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Philipp-Schaeffer-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=288887&ls=60&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=288887&ls=50&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -780,7 +593,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=285670&ls=60&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=285670&ls=50&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -791,7 +604,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=283918&ls=60&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=283918&ls=50&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -802,7 +615,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek Tiergarten-Südin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=223074&ls=70&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=223074&ls=50&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -813,7 +626,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek Tiergarten-Südin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=289262&ls=70&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=289262&ls=50&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -824,7 +637,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=285670&ls=70&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=285670&ls=50&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -835,7 +648,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Kurt-Tucholsky-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=233446&ls=70&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=233446&ls=50&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -846,7 +659,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=289883&ls=70&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=289883&ls=50&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -857,7 +670,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Philipp-Schaeffer-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=250606&ls=70&c=327&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=250606&ls=50&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -868,106 +681,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek am Luisenbadin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=277720&ls=70&c=327&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Drinnen oder draußen spielen",
-      "date": "2026-08-31",
-      "dateLabel": "31.08.2026",
-      "time": "16:00–18:00",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Bibliothek am Luisenbadin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=266308&ls=70&c=327&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Hausaufgabenhilfe für die 3.-6. Klasse",
-      "date": "2026-08-31",
-      "dateLabel": "31.08.2026",
-      "time": "16:00–18:00",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Bruno-Lösche-Bibliothekin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=289133&ls=70&c=327&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Hausaufgabenhilfe für die 1.-10. Klasse („Lern mit mir!“)",
-      "date": "2026-08-31",
-      "dateLabel": "31.08.2026",
-      "time": "16:00–18:00",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Schiller-Bibliothekin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=289127&ls=70&c=327&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "„Neuköllner Kontraste“ - Fotoausstellung der Bürgerstiftung Neukölln",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "09:00–18:00",
-      "library": "Stadtbibliothek Neukölln",
-      "location": "Helene-Nathan-Bibliothekin Neukölln",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=283630&ls=0&c=146&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Job-Café",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "10:30–12:00",
-      "library": "Stadtbibliothek Neukölln",
-      "location": "Gemeinschaftshaus Gropiusstadtin Neukölln",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=288368&ls=0&c=146&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Digital-Zebra in der Helene-Nathan-Bibliothek",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "11:00–13:00",
-      "library": "Stadtbibliothek Neukölln",
-      "location": "Helene-Nathan-Bibliothekin Neukölln",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=242914&ls=0&c=146&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Digital-Zebra in der Helene-Nathan-Bibliothek",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "15:00–19:00",
-      "library": "Stadtbibliothek Neukölln",
-      "location": "Helene-Nathan-Bibliothekin Neukölln",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=242914&ls=0&c=146&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Kamishibai in der Margarete-Kubicka-Bibliothek",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "16:00",
-      "library": "Stadtbibliothek Neukölln",
-      "location": "Margarete-Kubicka-Bibliothekin Neukölln",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=173868&ls=0&c=146&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Sprachcafé in der Helene-Nathan-Bibliothek",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "16:30–18:00",
-      "library": "Stadtbibliothek Neukölln",
-      "location": "Helene-Nathan-Bibliothekin Neukölln",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=155625&ls=0&c=146&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=277720&ls=50&c=327&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -978,7 +692,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Helene-Nathan-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=283630&ls=0&c=146&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=283630&ls=0&c=146&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -989,7 +703,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Gertrud-Junge-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=242917&ls=0&c=146&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=242917&ls=0&c=146&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1000,7 +714,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Gertrud-Haß-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=269152&ls=0&c=146&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=269152&ls=0&c=146&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1011,7 +725,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Helene-Nathan-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=242914&ls=0&c=146&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=242914&ls=0&c=146&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1022,7 +736,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Gertrud-Haß-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=271111&ls=10&c=146&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=271111&ls=0&c=146&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1033,7 +747,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Helene-Nathan-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=283630&ls=10&c=146&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=283630&ls=0&c=146&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1044,7 +758,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Gertrud-Haß-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=155631&ls=10&c=146&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=155631&ls=0&c=146&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1055,7 +769,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Gertrud-Junge-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=247045&ls=10&c=146&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=247045&ls=0&c=146&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1066,7 +780,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Gemeinschaftshaus Gropiusstadtin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=284977&ls=10&c=146&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=284977&ls=0&c=146&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1077,7 +791,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Helene-Nathan-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=283630&ls=10&c=146&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=283630&ls=0&c=146&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1088,7 +802,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Gertrud-Junge-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=242917&ls=10&c=146&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=242917&ls=10&c=146&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1099,7 +813,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Helene-Nathan-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=242914&ls=10&c=146&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=242914&ls=10&c=146&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1110,7 +824,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Gertrud-Junge-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=257029&ls=10&c=146&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=257029&ls=10&c=146&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1121,73 +835,73 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Helene-Nathan-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=242914&ls=10&c=146&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=242914&ls=10&c=146&date_start=26.08.2026",
       "recurring": false
     },
     {
-      "title": "Ausstellung: “Licht.Schatten.Detail” – Fotoausstellung der Fotogruppe „Wuhletaler Fotofreunde“",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "10:00–19:30",
-      "library": "Stadtbibliothek Marzahn-Hellersdorf",
-      "location": "Mark-Twain-Bibliothek / Bezirkszentralbibliothekin Marzahn-Hellersdorf",
+      "title": "MuKiBa - Musik für Kinder & Babies",
+      "date": "2026-08-28",
+      "dateLabel": "28.08.2026",
+      "time": "16:00",
+      "library": "Stadtbibliothek Neukölln",
+      "location": "Gertrud-Junge-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=281938&ls=0&c=439&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=267859&ls=10&c=146&date_start=26.08.2026",
       "recurring": false
     },
     {
-      "title": "Wanderausstellung “Klima-Snacks” von KATE e.V.",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
+      "title": "„Neuköllner Kontraste“ - Fotoausstellung der Bürgerstiftung Neukölln",
+      "date": "2026-08-29",
+      "dateLabel": "29.08.2026",
+      "time": "09:00–13:00",
+      "library": "Stadtbibliothek Neukölln",
+      "location": "Helene-Nathan-Bibliothekin Neukölln",
+      "desc": "",
+      "link": "https://www.berlin.de/index.php?detail=283630&ls=10&c=146&date_start=26.08.2026",
+      "recurring": false
+    },
+    {
+      "title": "„Neuköllner Kontraste“ - Fotoausstellung der Bürgerstiftung Neukölln",
+      "date": "2026-08-31",
+      "dateLabel": "31.08.2026",
       "time": "11:00–18:00",
-      "library": "Stadtbibliothek Marzahn-Hellersdorf",
-      "location": "Stadtteilbibliothek Erich Weinertin Marzahn-Hellersdorf",
+      "library": "Stadtbibliothek Neukölln",
+      "location": "Helene-Nathan-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=287149&ls=0&c=439&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=283630&ls=10&c=146&date_start=26.08.2026",
       "recurring": false
     },
     {
-      "title": "Ausstellung: \"Reiseimpressionen\" - Ausstellung der Montagsmaler aus Biesdorf",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "12:00–19:00",
-      "library": "Stadtbibliothek Marzahn-Hellersdorf",
-      "location": "Bibliothek Kaulsdorfin Marzahn-Hellersdorf",
+      "title": "Digital-Zebra in der Gertrud-Junge-Bibliothek",
+      "date": "2026-08-31",
+      "dateLabel": "31.08.2026",
+      "time": "11:00–15:00",
+      "library": "Stadtbibliothek Neukölln",
+      "location": "Gertrud-Junge-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=281947&ls=0&c=439&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=242917&ls=10&c=146&date_start=26.08.2026",
       "recurring": false
     },
     {
-      "title": "\"Das ganz große Glück\" – Fröhliche Zeichnungen von Antje Püpke",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "13:00–19:00",
-      "library": "Stadtbibliothek Marzahn-Hellersdorf",
-      "location": "Mittelpunktbibliothek Ehm Welkin Marzahn-Hellersdorf",
+      "title": "Digital-Zebra in der Helene-Nathan-Bibliothek",
+      "date": "2026-08-31",
+      "dateLabel": "31.08.2026",
+      "time": "11:00–13:00",
+      "library": "Stadtbibliothek Neukölln",
+      "location": "Helene-Nathan-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=283429&ls=0&c=439&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=242914&ls=10&c=146&date_start=26.08.2026",
       "recurring": false
     },
     {
-      "title": "Digital-Zebra - Wegweiser durch die digitale Welt",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "13:00–16:00",
-      "library": "Stadtbibliothek Marzahn-Hellersdorf",
-      "location": "Mittelpunktbibliothek Ehm Welkin Marzahn-Hellersdorf",
+      "title": "\"Steinsuppe\" - nach einem Buch von Anaïs Vaugelade | Kindertheater mit dem Nimú Theatre",
+      "date": "2026-08-31",
+      "dateLabel": "31.08.2026",
+      "time": "16:00",
+      "library": "Stadtbibliothek Neukölln",
+      "location": "Margarete-Kubicka-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=275800&ls=0&c=439&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Bastel-Buch: Kunst aus alten Büchern",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "17:00–19:00",
-      "library": "Stadtbibliothek Marzahn-Hellersdorf",
-      "location": "Mark-Twain-Bibliothek / Bezirkszentralbibliothekin Marzahn-Hellersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=137668&ls=0&c=439&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=288254&ls=10&c=146&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1198,7 +912,7 @@
       "library": "Stadtbibliothek Marzahn-Hellersdorf",
       "location": "Stadtteilbibliothek Erich Weinertin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=282877&ls=0&c=439&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=282877&ls=0&c=439&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1209,7 +923,7 @@
       "library": "Stadtbibliothek Marzahn-Hellersdorf",
       "location": "Stadtteilbibliothek Erich Weinertin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=287149&ls=0&c=439&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=287149&ls=0&c=439&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1220,7 +934,7 @@
       "library": "Stadtbibliothek Marzahn-Hellersdorf",
       "location": "Bibliothek Kaulsdorfin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=281947&ls=0&c=439&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=281947&ls=0&c=439&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1231,7 +945,7 @@
       "library": "Stadtbibliothek Marzahn-Hellersdorf",
       "location": "Mittelpunktbibliothek Ehm Welkin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=283429&ls=0&c=439&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=283429&ls=0&c=439&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1242,7 +956,7 @@
       "library": "Stadtbibliothek Marzahn-Hellersdorf",
       "location": "Mittelpunktbibliothek Ehm Welkin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=275800&ls=10&c=439&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=275800&ls=0&c=439&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1253,18 +967,18 @@
       "library": "Stadtbibliothek Marzahn-Hellersdorf",
       "location": "Mark-Twain-Bibliothek / Bezirkszentralbibliothekin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=281938&ls=10&c=439&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=281938&ls=0&c=439&date_start=26.08.2026",
       "recurring": false
     },
     {
-      "title": "“Tatort Bibliothek“ – Krimi Lesung „Tod im Rapsfeld“ mit Bernd Hesse",
+      "title": "ALLE PLÄTZE BELEGT: “Tatort Bibliothek“ – Krimi Lesung „Tod im Rapsfeld“ mit Bernd Hesse",
       "date": "2026-08-26",
       "dateLabel": "26.08.2026",
       "time": "19:00–20:30",
       "library": "Stadtbibliothek Marzahn-Hellersdorf",
       "location": "Mark-Twain-Bibliothek / Bezirkszentralbibliothekin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=285133&ls=10&c=439&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=285133&ls=0&c=439&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1275,7 +989,7 @@
       "library": "Stadtbibliothek Marzahn-Hellersdorf",
       "location": "Mark-Twain-Bibliothek / Bezirkszentralbibliothekin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=281938&ls=10&c=439&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=281938&ls=0&c=439&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1286,7 +1000,7 @@
       "library": "Stadtbibliothek Marzahn-Hellersdorf",
       "location": "Stadtteilbibliothek Erich Weinertin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=287149&ls=10&c=439&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=287149&ls=0&c=439&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1297,7 +1011,7 @@
       "library": "Stadtbibliothek Marzahn-Hellersdorf",
       "location": "Bibliothek Kaulsdorfin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=281947&ls=10&c=439&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=281947&ls=0&c=439&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1308,7 +1022,7 @@
       "library": "Stadtbibliothek Marzahn-Hellersdorf",
       "location": "Mittelpunktbibliothek Ehm Welkin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=283429&ls=10&c=439&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=283429&ls=10&c=439&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1319,7 +1033,7 @@
       "library": "Stadtbibliothek Marzahn-Hellersdorf",
       "location": "Mittelpunktbibliothek Ehm Welkin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=275797&ls=10&c=439&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=275797&ls=10&c=439&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1330,7 +1044,7 @@
       "library": "Stadtbibliothek Marzahn-Hellersdorf",
       "location": "Mark-Twain-Bibliothek / Bezirkszentralbibliothekin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=284320&ls=10&c=439&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=284320&ls=10&c=439&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1341,7 +1055,7 @@
       "library": "Stadtbibliothek Marzahn-Hellersdorf",
       "location": "Stadtteilbibliothek Erich Weinertin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=266530&ls=10&c=439&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=266530&ls=10&c=439&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1352,7 +1066,7 @@
       "library": "Stadtbibliothek Marzahn-Hellersdorf",
       "location": "Stadtteilbibliothek Erich Weinertin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=287149&ls=20&c=439&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=287149&ls=10&c=439&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1363,7 +1077,7 @@
       "library": "Stadtbibliothek Marzahn-Hellersdorf",
       "location": "Bibliothek Kaulsdorfin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=281947&ls=20&c=439&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=281947&ls=10&c=439&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1374,7 +1088,7 @@
       "library": "Stadtbibliothek Marzahn-Hellersdorf",
       "location": "Mark-Twain-Bibliothek / Bezirkszentralbibliothekin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=281938&ls=20&c=439&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=281938&ls=10&c=439&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1385,7 +1099,7 @@
       "library": "Stadtbibliothek Marzahn-Hellersdorf",
       "location": "Mittelpunktbibliothek Ehm Welkin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=283429&ls=20&c=439&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=283429&ls=10&c=439&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1396,7 +1110,7 @@
       "library": "Stadtbibliothek Marzahn-Hellersdorf",
       "location": "Mittelpunktbibliothek Ehm Welkin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=275800&ls=20&c=439&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=275800&ls=10&c=439&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1407,7 +1121,7 @@
       "library": "Stadtbibliothek Marzahn-Hellersdorf",
       "location": "Mark-Twain-Bibliothek / Bezirkszentralbibliothekin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=266539&ls=20&c=439&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=266539&ls=10&c=439&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1418,7 +1132,7 @@
       "library": "Stadtbibliothek Marzahn-Hellersdorf",
       "location": "Mark-Twain-Bibliothek / Bezirkszentralbibliothekin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=281938&ls=20&c=439&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=281938&ls=20&c=439&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1429,7 +1143,7 @@
       "library": "Stadtbibliothek Marzahn-Hellersdorf",
       "location": "Mark-Twain-Bibliothek / Bezirkszentralbibliothekin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=281938&ls=20&c=439&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=281938&ls=20&c=439&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1440,7 +1154,7 @@
       "library": "Stadtbibliothek Marzahn-Hellersdorf",
       "location": "Stadtteilbibliothek Erich Weinertin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=287149&ls=20&c=439&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=287149&ls=20&c=439&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1451,129 +1165,74 @@
       "library": "Stadtbibliothek Marzahn-Hellersdorf",
       "location": "Bibliothek Kaulsdorfin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=281947&ls=20&c=439&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=281947&ls=20&c=439&date_start=26.08.2026",
       "recurring": false
     },
     {
-      "title": "Digital-Zebra: allgemeine Digital-Beratung",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "10:00–12:00",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Stadtteilbibliothek Buchin Pankow",
+      "title": "\"Das ganz große Glück\" – Fröhliche Zeichnungen von Antje Püpke",
+      "date": "2026-08-31",
+      "dateLabel": "31.08.2026",
+      "time": "13:00–19:00",
+      "library": "Stadtbibliothek Marzahn-Hellersdorf",
+      "location": "Mittelpunktbibliothek Ehm Welkin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=271021&ls=0&c=409&date_start=25.08.2026",
-      "recurring": true
+      "link": "https://www.berlin.de/index.php?detail=283429&ls=20&c=439&date_start=26.08.2026",
+      "recurring": false
     },
     {
-      "title": "NEU Book a librarian",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "10:00–15:00",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Bibliothek am Wasserturmin Pankow",
+      "title": "Nähen in der Bibliothek",
+      "date": "2026-08-31",
+      "dateLabel": "31.08.2026",
+      "time": "14:00–17:00",
+      "library": "Stadtbibliothek Marzahn-Hellersdorf",
+      "location": "Bibliothek Kaulsdorfin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=279628&ls=0&c=409&date_start=25.08.2026",
-      "recurring": true
+      "link": "https://www.berlin.de/index.php?detail=275815&ls=20&c=439&date_start=26.08.2026",
+      "recurring": false
     },
     {
-      "title": "Erzähltheater auf dem Spielplatz",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "10:30",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Kurt-Tucholsky-Bibliothekin Pankow",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=276418&ls=0&c=409&date_start=25.08.2026",
-      "recurring": true
-    },
-    {
-      "title": "Frauen Workshops",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "13:00–15:00",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Stadtteilbibliothek Buchin Pankow",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=282361&ls=0&c=409&date_start=25.08.2026",
-      "recurring": true
-    },
-    {
-      "title": "Digital-Zebra: allgemeine Digital-Beratung",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "13:00–15:30",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Stadtteilbibliothek Buchin Pankow",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=271021&ls=0&c=409&date_start=25.08.2026",
-      "recurring": true
-    },
-    {
-      "title": "Geschichten-Kiste",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "15:00",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=270517&ls=0&c=409&date_start=25.08.2026",
-      "recurring": true
-    },
-    {
-      "title": "Sprachcafé",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
+      "title": "Kaffee und KI: Online sicher einkaufen",
+      "date": "2026-08-31",
+      "dateLabel": "31.08.2026",
       "time": "15:00–17:00",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Stadtteilbibliothek Karowin Pankow",
+      "library": "Stadtbibliothek Marzahn-Hellersdorf",
+      "location": "Mark-Twain-Bibliothek / Bezirkszentralbibliothekin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=265675&ls=0&c=409&date_start=25.08.2026",
-      "recurring": true
+      "link": "https://www.berlin.de/index.php?detail=285181&ls=20&c=439&date_start=26.08.2026",
+      "recurring": false
     },
     {
-      "title": "Bibliotheksnachmittag für die Kleinsten",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "16:00",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Heinrich-Böll-Bibliothekin Pankow",
+      "title": "Makerspace in der Ehm-Welk-Bibliothek",
+      "date": "2026-08-31",
+      "dateLabel": "31.08.2026",
+      "time": "15:00–17:00",
+      "library": "Stadtbibliothek Marzahn-Hellersdorf",
+      "location": "Mittelpunktbibliothek Ehm Welkin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=241693&ls=0&c=409&date_start=25.08.2026",
-      "recurring": true
+      "link": "https://www.berlin.de/index.php?detail=275797&ls=20&c=439&date_start=26.08.2026",
+      "recurring": false
     },
     {
-      "title": "Bilderbuchkino",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
+      "title": "Digital-Zebra - Wegweiser durch die digitale Welt",
+      "date": "2026-08-31",
+      "dateLabel": "31.08.2026",
+      "time": "15:00–18:00",
+      "library": "Stadtbibliothek Marzahn-Hellersdorf",
+      "location": "Mittelpunktbibliothek Ehm Welkin Marzahn-Hellersdorf",
+      "desc": "",
+      "link": "https://www.berlin.de/index.php?detail=275800&ls=20&c=439&date_start=26.08.2026",
+      "recurring": false
+    },
+    {
+      "title": "Lesemontag bei Weinerts",
+      "date": "2026-08-31",
+      "dateLabel": "31.08.2026",
       "time": "16:30",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Bettina-von-Arnim-Bibliothekin Pankow",
+      "library": "Stadtbibliothek Marzahn-Hellersdorf",
+      "location": "Stadtteilbibliothek Erich Weinertin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=242011&ls=0&c=409&date_start=25.08.2026",
-      "recurring": true
-    },
-    {
-      "title": "Spiele-Nachmittag für Erwachsene",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "17:00–19:00",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Janusz- Korczak-Bibliothekin Pankow",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=288917&ls=0&c=409&date_start=25.08.2026",
-      "recurring": true
-    },
-    {
-      "title": "Dialog in Deutsch",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "19:00",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=241957&ls=10&c=409&date_start=25.08.2026",
-      "recurring": true
+      "link": "https://www.berlin.de/index.php?detail=266521&ls=20&c=439&date_start=26.08.2026",
+      "recurring": false
     },
     {
       "title": "Krabbelgruppe",
@@ -1583,7 +1242,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Karowin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=288794&ls=10&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=288794&ls=0&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -1594,7 +1253,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=282361&ls=10&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=282361&ls=0&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -1605,7 +1264,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=242212&ls=10&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=242212&ls=0&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -1616,7 +1275,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Janusz- Korczak-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=241852&ls=10&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=241852&ls=0&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -1627,7 +1286,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bettina-von-Arnim-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=247570&ls=10&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=247570&ls=0&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -1638,7 +1297,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Kurt-Tucholsky-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=285364&ls=10&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=285364&ls=0&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -1649,7 +1308,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Janusz- Korczak-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=284920&ls=10&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=284920&ls=0&c=409&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1660,7 +1319,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=267133&ls=10&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=267133&ls=0&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -1671,7 +1330,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Janusz- Korczak-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=241852&ls=10&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=241852&ls=0&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -1682,7 +1341,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Kurt-Tucholsky-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=272770&ls=20&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=272770&ls=0&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -1693,7 +1352,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bettina-von-Arnim-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=246979&ls=20&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=246979&ls=10&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -1704,7 +1363,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Kurt-Tucholsky-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=276418&ls=20&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=276418&ls=10&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -1715,7 +1374,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Karowin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=242158&ls=20&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=242158&ls=10&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -1726,7 +1385,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bettina-von-Arnim-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=283369&ls=20&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=283369&ls=10&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -1737,7 +1396,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bibliothek am Wasserturmin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=242077&ls=20&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=242077&ls=10&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -1748,7 +1407,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bettina-von-Arnim-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=247570&ls=20&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=247570&ls=10&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -1759,7 +1418,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=281644&ls=20&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=281644&ls=10&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -1770,7 +1429,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=270280&ls=20&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=270280&ls=10&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -1781,7 +1440,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Heinrich-Böll-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=245992&ls=20&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=245992&ls=10&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -1792,7 +1451,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Kurt-Tucholsky-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=276415&ls=30&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=276415&ls=10&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -1803,7 +1462,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bibliothek am Wasserturmin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=267328&ls=30&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=267328&ls=20&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -1814,7 +1473,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Karowin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=284881&ls=30&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=284881&ls=20&c=409&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1825,7 +1484,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Janusz- Korczak-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=275293&ls=30&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=275293&ls=20&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -1836,7 +1495,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bibliothek am Wasserturmin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=279886&ls=30&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=279886&ls=20&c=409&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1847,19 +1506,8 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=288641&ls=30&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=288641&ls=20&c=409&date_start=26.08.2026",
       "recurring": false
-    },
-    {
-      "title": "Lerntandem - Nachhilfe für 1. & 2. Klasse",
-      "date": "2026-08-28",
-      "dateLabel": "28.08.2026",
-      "time": "09:00–19:00",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Heinrich-Böll-Bibliothekin Pankow",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=263467&ls=30&c=409&date_start=25.08.2026",
-      "recurring": true
     },
     {
       "title": "NEU Book a librarian",
@@ -1869,7 +1517,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bibliothek am Wasserturmin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=279628&ls=30&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=279628&ls=20&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -1880,7 +1528,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Janusz- Korczak-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=241852&ls=30&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=241852&ls=20&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -1891,7 +1539,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Heinrich-Böll-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=284527&ls=30&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=284527&ls=20&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -1902,7 +1550,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Janusz- Korczak-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=241852&ls=40&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=241852&ls=20&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -1913,7 +1561,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bibliothek am Wasserturmin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=284152&ls=40&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=284152&ls=20&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -1924,7 +1572,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bettina-von-Arnim-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=242020&ls=40&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=242020&ls=30&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -1935,7 +1583,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Karowin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=282871&ls=40&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=282871&ls=30&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -1946,7 +1594,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=274216&ls=40&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=274216&ls=30&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -1957,7 +1605,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Karowin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=284755&ls=40&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=284755&ls=30&c=409&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1968,7 +1616,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=286591&ls=40&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=286591&ls=30&c=409&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -1979,7 +1627,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Heinrich-Böll-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=287554&ls=40&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=287554&ls=30&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -1990,7 +1638,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Heinrich-Böll-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=246874&ls=40&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=246874&ls=30&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -2001,7 +1649,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=274189&ls=40&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=274189&ls=30&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -2012,7 +1660,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=282502&ls=50&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=282502&ls=30&c=409&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2023,7 +1671,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Karowin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=284746&ls=50&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=284746&ls=30&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -2034,7 +1682,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bibliothek am Wasserturmin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=289823&ls=50&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=289823&ls=40&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -2045,7 +1693,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Sommergarten Filmtheater am Friedrichshainin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=288077&ls=50&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=288077&ls=40&c=409&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2056,7 +1704,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bibliothek am Wasserturmin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=279628&ls=50&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=279628&ls=40&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -2067,7 +1715,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Kurt-Tucholsky-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=276361&ls=50&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=276361&ls=40&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -2078,7 +1726,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bibliothek am Wasserturmin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=242077&ls=50&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=242077&ls=40&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -2089,7 +1737,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=275212&ls=50&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=275212&ls=40&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -2100,7 +1748,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=271021&ls=50&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=271021&ls=40&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
@@ -2111,52 +1759,30 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=270247&ls=50&c=409&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=270247&ls=40&c=409&date_start=26.08.2026",
       "recurring": true
     },
     {
-      "title": "Upcycling-Workshop: Modegeschichte zum Selbermachen",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "16:00–19:00",
-      "library": "Stadtbibliothek Reinickendorf",
-      "location": "Bibliothek im Märkischen Viertelin Reinickendorf",
+      "title": "Bilderbuchkino",
+      "date": "2026-08-31",
+      "dateLabel": "31.08.2026",
+      "time": "16:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bettina-von-Arnim-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=285646&ls=0&c=230&date_start=25.08.2026",
-      "recurring": false
+      "link": "https://www.berlin.de/index.php?detail=242011&ls=40&c=409&date_start=26.08.2026",
+      "recurring": true
     },
     {
-      "title": "Offene digitale Sprechstunde für die Generation Plus",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "16:00–17:30",
-      "library": "Stadtbibliothek Reinickendorf",
-      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "title": "Bindungshunger - Selbsthilfegruppe zum Thema Essstörung",
+      "date": "2026-08-31",
+      "dateLabel": "31.08.2026",
+      "time": "19:00–21:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Kurt-Tucholsky-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=253654&ls=0&c=230&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Gaming mit der Switch 2",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "16:00",
-      "library": "Stadtbibliothek Reinickendorf",
-      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=253657&ls=0&c=230&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Demenz im Alltag - Vortrag & Gespräch mit der Demenzfreundlichen Kommune",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "16:30–18:00",
-      "library": "Stadtbibliothek Reinickendorf",
-      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=285655&ls=0&c=230&date_start=25.08.2026",
-      "recurring": false
+      "link": "https://www.berlin.de/index.php?detail=271162&ls=40&c=409&date_start=26.08.2026",
+      "recurring": true
     },
     {
       "title": "Vorlesen mit dem Kamishibai",
@@ -2166,7 +1792,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=233269&ls=0&c=230&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=233269&ls=0&c=230&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2177,7 +1803,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Bibliothek im Märkischen Viertelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=285646&ls=0&c=230&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=285646&ls=0&c=230&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2188,7 +1814,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=223170&ls=0&c=230&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=223170&ls=0&c=230&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2199,7 +1825,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=285658&ls=0&c=230&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=285658&ls=0&c=230&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2210,7 +1836,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Bibliothek im Märkischen Viertelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=247114&ls=0&c=230&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=247114&ls=0&c=230&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2221,84 +1847,51 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=189381&ls=0&c=230&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=189381&ls=0&c=230&date_start=26.08.2026",
       "recurring": false
     },
     {
-      "title": "Mietberatung in der Ingeborg-Drewitz-Bibliothek",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "10:00–13:00",
-      "library": "Stadtbibliothek Steglitz-Zehlendorf",
-      "location": "Ingeborg-Drewitz-Bibliothekin Steglitz-Zehlendorf",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=238651&ls=0&c=67&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Button DIY Q*lub",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "14:00–17:00",
-      "library": "Stadtbibliothek Steglitz-Zehlendorf",
-      "location": "Ingeborg-Drewitz-Bibliothekin Steglitz-Zehlendorf",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=250987&ls=0&c=67&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Mietberatung in der Ingeborg-Drewitz-Bibliothek",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "15:00–18:00",
-      "library": "Stadtbibliothek Steglitz-Zehlendorf",
-      "location": "Ingeborg-Drewitz-Bibliothekin Steglitz-Zehlendorf",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=238651&ls=0&c=67&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Elternsprechstunde: Handy, Social Media und Co - in der Ingeborg-Drewitz-Bibliothek",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "16:00–17:30",
-      "library": "Stadtbibliothek Steglitz-Zehlendorf",
-      "location": "Ingeborg-Drewitz-Bibliothekin Steglitz-Zehlendorf",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=275908&ls=0&c=67&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Erzählzeit in der Gottfried-Benn-Bibliothek",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "16:30",
-      "library": "Stadtbibliothek Steglitz-Zehlendorf",
-      "location": "Gottfried-Benn-Bibliothekin Steglitz-Zehlendorf",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=239014&ls=0&c=67&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Vorlesestunde von Lesewelt Berlin e.V. für Kinder in der Ingeborg-Drewitz-Bibliothek",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
+      "title": "Vorlesestunde in der Stadtteilbibliothek Reinickendorf-West",
+      "date": "2026-08-27",
+      "dateLabel": "27.08.2026",
       "time": "16:30–17:30",
-      "library": "Stadtbibliothek Steglitz-Zehlendorf",
-      "location": "Ingeborg-Drewitz-Bibliothekin Steglitz-Zehlendorf",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Stadtteilbibliothek Reinickendorf- Westin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=159171&ls=0&c=67&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=223560&ls=0&c=230&date_start=26.08.2026",
       "recurring": false
     },
     {
-      "title": "Silent Book Club in der Ingeborg-Drewitz-Bibliothek",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "17:00–19:00",
-      "library": "Stadtbibliothek Steglitz-Zehlendorf",
-      "location": "Ingeborg-Drewitz-Bibliothekin Steglitz-Zehlendorf",
+      "title": "Vorlesestunde in der Stadtteilbibliothek Frohnau",
+      "date": "2026-08-28",
+      "dateLabel": "28.08.2026",
+      "time": "15:00–16:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Stadtteilbibliothek Frohnauin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=272038&ls=0&c=67&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=267748&ls=0&c=230&date_start=26.08.2026",
+      "recurring": false
+    },
+    {
+      "title": "Upcycling-Workshop: Modegeschichte zum Selbermachen",
+      "date": "2026-08-28",
+      "dateLabel": "28.08.2026",
+      "time": "16:00–19:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Bibliothek im Märkischen Viertelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/index.php?detail=285646&ls=0&c=230&date_start=26.08.2026",
+      "recurring": false
+    },
+    {
+      "title": "TikTalk: Die Kurzvideowelt verstehen - Workshop für Eltern",
+      "date": "2026-08-28",
+      "dateLabel": "28.08.2026",
+      "time": "17:00–19:30",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/index.php?detail=287389&ls=0&c=230&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2309,7 +1902,7 @@
       "library": "Stadtbibliothek Steglitz-Zehlendorf",
       "location": "Ingeborg-Drewitz-Bibliothekin Steglitz-Zehlendorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=249334&ls=0&c=67&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=249334&ls=0&c=67&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2320,7 +1913,7 @@
       "library": "Stadtbibliothek Steglitz-Zehlendorf",
       "location": "Ingeborg-Drewitz-Bibliothekin Steglitz-Zehlendorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=238651&ls=0&c=67&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=238651&ls=0&c=67&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2331,7 +1924,7 @@
       "library": "Stadtbibliothek Steglitz-Zehlendorf",
       "location": "Gottfried-Benn-Bibliothekin Steglitz-Zehlendorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=157791&ls=0&c=67&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=157791&ls=0&c=67&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2342,7 +1935,7 @@
       "library": "Stadtbibliothek Steglitz-Zehlendorf",
       "location": "Stadtteilbibliothek Lankwitzin Steglitz-Zehlendorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=280144&ls=10&c=67&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=280144&ls=0&c=67&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2353,7 +1946,7 @@
       "library": "Stadtbibliothek Steglitz-Zehlendorf",
       "location": "Ingeborg-Drewitz-Bibliothekin Steglitz-Zehlendorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=267787&ls=10&c=67&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=267787&ls=0&c=67&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2364,7 +1957,7 @@
       "library": "Stadtbibliothek Steglitz-Zehlendorf",
       "location": "Ingeborg-Drewitz-Bibliothekin Steglitz-Zehlendorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=256162&ls=10&c=67&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=256162&ls=0&c=67&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2375,7 +1968,7 @@
       "library": "Stadtbibliothek Steglitz-Zehlendorf",
       "location": "Gottfried-Benn-Bibliothekin Steglitz-Zehlendorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=275323&ls=10&c=67&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=275323&ls=0&c=67&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2386,7 +1979,7 @@
       "library": "Stadtbibliothek Steglitz-Zehlendorf",
       "location": "Gottfried-Benn-Bibliothekin Steglitz-Zehlendorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=239053&ls=10&c=67&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=239053&ls=0&c=67&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2397,7 +1990,7 @@
       "library": "Stadtbibliothek Steglitz-Zehlendorf",
       "location": "Ingeborg-Drewitz-Bibliothekin Steglitz-Zehlendorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=236428&ls=10&c=67&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=236428&ls=0&c=67&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2408,73 +2001,7 @@
       "library": "Stadtbibliothek Steglitz-Zehlendorf",
       "location": "Stadtteilbibliothek Lankwitzin Steglitz-Zehlendorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=267697&ls=10&c=67&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Familiencafé in der Stadtteilbibliothek Lankwitz",
-      "date": "2026-08-28",
-      "dateLabel": "28.08.2026",
-      "time": "14:30–16:00",
-      "library": "Stadtbibliothek Steglitz-Zehlendorf",
-      "location": "Stadtteilbibliothek Lankwitzin Steglitz-Zehlendorf",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=267691&ls=10&c=67&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Popcornkino in der Gottfried-Benn-Bibliothek für Kinder",
-      "date": "2026-08-28",
-      "dateLabel": "28.08.2026",
-      "time": "16:00",
-      "library": "Stadtbibliothek Steglitz-Zehlendorf",
-      "location": "Gottfried-Benn-Bibliothekin Steglitz-Zehlendorf",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=239023&ls=10&c=67&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Vorlesezeit in der Stadtteilbibliothek Lankwitz",
-      "date": "2026-08-28",
-      "dateLabel": "28.08.2026",
-      "time": "16:30",
-      "library": "Stadtbibliothek Steglitz-Zehlendorf",
-      "location": "Stadtteilbibliothek Lankwitzin Steglitz-Zehlendorf",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=250450&ls=10&c=67&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Bunte Kiste - Makerbike FaBi on Tour",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "14:00–17:00",
-      "library": "Stadtbibliothek Tempelhof-Schöneberg",
-      "location": "Metzplatzin Tempelhof-Schöneberg",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=270469&ls=0&c=145&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Spielenachmittag in der Bibliothek Lichtenrade",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "15:00–18:00",
-      "library": "Stadtbibliothek Tempelhof-Schöneberg",
-      "location": "Bibliothek Lichtenradein Tempelhof-Schöneberg",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=224079&ls=0&c=145&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Bilderbuchkino in der Bibliothek Tempelhof",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "16:30–17:00",
-      "library": "Stadtbibliothek Tempelhof-Schöneberg",
-      "location": "Bibliothek Tempelhof \"Eva-Maria-Buch-Haus\"in Tempelhof-Schöneberg",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=268717&ls=0&c=145&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=267697&ls=0&c=67&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2485,7 +2012,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Tempelhof \"Eva-Maria-Buch-Haus\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=244756&ls=0&c=145&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=244756&ls=0&c=145&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2496,7 +2023,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Tempelhof \"Eva-Maria-Buch-Haus\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=256234&ls=0&c=145&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=256234&ls=0&c=145&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2507,7 +2034,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Tempelhof \"Eva-Maria-Buch-Haus\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=168777&ls=0&c=145&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=168777&ls=0&c=145&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2518,7 +2045,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Schöneberg \"Theodor-Heuss-Bibliothek\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=214174&ls=0&c=145&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=214174&ls=0&c=145&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2529,7 +2056,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Lichtenradein Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=284635&ls=0&c=145&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=284635&ls=0&c=145&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2540,7 +2067,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Tempelhof \"Eva-Maria-Buch-Haus\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=289331&ls=0&c=145&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=289331&ls=0&c=145&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2551,95 +2078,40 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Schöneberg \"Theodor-Heuss-Bibliothek\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=284104&ls=0&c=145&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=284104&ls=0&c=145&date_start=26.08.2026",
       "recurring": false
     },
     {
-      "title": "Ausstellung \"Wunderkammer der verschwundenen Gärten\"",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "10:00–18:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Kommunale Galeriein Charlottenburg-Wilmersdorf",
+      "title": "Einführung in die Stickmaschine in der Bibliothek Tempelhof",
+      "date": "2026-08-27",
+      "dateLabel": "27.08.2026",
+      "time": "17:15–18:15",
+      "library": "Stadtbibliothek Tempelhof-Schöneberg",
+      "location": "Bibliothek Tempelhof \"Eva-Maria-Buch-Haus\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=283549&ls=0&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=289331&ls=0&c=145&date_start=26.08.2026",
       "recurring": false
     },
     {
-      "title": "It's A Balance Trick - Zeitgenössische Kunst zwischen Gleichgewicht und Instabilität",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "10:00–18:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Kommunale Galeriein Charlottenburg-Wilmersdorf",
+      "title": "Miteinander im Kiez - Senior*innensprechstunde der Polizei in der Bibliothek Schöneberg",
+      "date": "2026-08-28",
+      "dateLabel": "28.08.2026",
+      "time": "11:00–12:00",
+      "library": "Stadtbibliothek Tempelhof-Schöneberg",
+      "location": "Bibliothek Schöneberg \"Theodor-Heuss-Bibliothek\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=283570&ls=0&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=281392&ls=0&c=145&date_start=26.08.2026",
       "recurring": false
     },
     {
-      "title": "Wir kommen wieder. Über Tourismus und die Destination West-Berlin",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "10:00–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Museum Charlottenburg-Wilmersdorf in der Villa Oppenheimin Charlottenburg-Wilmersdorf",
+      "title": "Nähtreff in der Bibliothek Tempelhof",
+      "date": "2026-08-28",
+      "dateLabel": "28.08.2026",
+      "time": "15:30",
+      "library": "Stadtbibliothek Tempelhof-Schöneberg",
+      "location": "Bibliothek Tempelhof \"Eva-Maria-Buch-Haus\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=283657&ls=0&c=4&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Offener Handarbeitstreff in der Ingeborg-Bachmann-Bibliothek",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "12:00–14:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Ingeborg-Bachmann-Bibliothek (Stadtteilbibliothek West)in Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=282298&ls=0&c=4&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Vorlesestunde mit Lesewelt e.V. in der Adolf-Reichwein-Bibliothek",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "16:00–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Adolf-Reichwein-Bibliothek  (Rathaus Schmargendorf)in Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=284641&ls=0&c=4&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Kleidertauschparty in der Dietrich-Bonhoeffer-Bibliothek",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "16:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=287926&ls=0&c=4&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Vorlesestunde mit Lesewelt e.V. in der Eberhard-Alexander-Burgh-Bibliothek",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "16:30–17:30",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Eberhard-Alexander-Burgh-Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=284647&ls=0&c=4&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Leseclub für Kinder",
-      "date": "2026-08-25",
-      "dateLabel": "25.08.2026",
-      "time": "17:00–18:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=282376&ls=0&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=254761&ls=0&c=145&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2650,7 +2122,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Kommunale Galeriein Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=283549&ls=0&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=283549&ls=0&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2661,7 +2133,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Kommunale Galeriein Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=283570&ls=0&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=283570&ls=0&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2672,7 +2144,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Museum Charlottenburg-Wilmersdorf in der Villa Oppenheimin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=283657&ls=10&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=283657&ls=0&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2683,7 +2155,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=284620&ls=10&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=284620&ls=0&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2694,7 +2166,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Basement Berlinin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=283648&ls=10&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=283648&ls=0&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2705,7 +2177,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=281611&ls=10&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=281611&ls=0&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2716,7 +2188,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Johanna-Moosdorf- Bibliothek (Stadtteil- bibliothek Neuwestend)in Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=276097&ls=10&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=276097&ls=0&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2727,7 +2199,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Ingeborg-Bachmann-Bibliothek (Stadtteilbibliothek West)in Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=276091&ls=10&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=276091&ls=0&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2738,7 +2210,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=276085&ls=10&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=276085&ls=0&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2749,7 +2221,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Adolf-Reichwein-Bibliothek  (Rathaus Schmargendorf)in Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=272890&ls=10&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=272890&ls=0&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2760,7 +2232,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=283687&ls=10&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=283687&ls=10&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2771,7 +2243,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Ingeborg-Bachmann-Bibliothek (Stadtteilbibliothek West)in Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=282298&ls=10&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=282298&ls=10&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2782,7 +2254,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Kommunale Galeriein Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=283549&ls=20&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=283549&ls=10&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2793,7 +2265,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Kommunale Galeriein Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=283570&ls=20&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=283570&ls=10&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2804,7 +2276,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Museum Charlottenburg-Wilmersdorf in der Villa Oppenheimin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=283657&ls=20&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=283657&ls=10&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2815,7 +2287,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Ingeborg-Bachmann-Bibliothek (Stadtteilbibliothek West)in Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=282298&ls=20&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=282298&ls=10&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2826,18 +2298,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Basement Berlinin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=283648&ls=20&c=4&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Vorlesestunde mit Lesewelt e.V. in der Dietrich-Bonhoeffer-Bibliothek",
-      "date": "2026-08-27",
-      "dateLabel": "27.08.2026",
-      "time": "16:00–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=276910&ls=20&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=283648&ls=10&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2848,18 +2309,18 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Adolf-Reichwein-Bibliothek (im Rathaus Schmargendorf)in Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=287890&ls=20&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=287890&ls=10&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
-      "title": "Leseclub für Kinder",
+      "title": "Vorlesestunde mit Lesewelt e.V. in der Dietrich-Bonhoeffer-Bibliothek",
       "date": "2026-08-27",
       "dateLabel": "27.08.2026",
       "time": "16:00–17:00",
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
+      "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=282376&ls=20&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=276910&ls=10&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2870,7 +2331,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=287926&ls=20&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=287926&ls=10&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2881,7 +2342,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=287569&ls=20&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=287569&ls=20&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2892,7 +2353,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=276907&ls=30&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=276907&ls=20&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2903,7 +2364,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Stadtteilbibliothek Halemwegin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=272428&ls=30&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=272428&ls=20&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2914,7 +2375,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Eberhard-Alexander-Burgh-Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=245593&ls=30&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=245593&ls=20&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2925,18 +2386,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=285715&ls=30&c=4&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Filmreihe „Wir kommen wieder“",
-      "date": "2026-08-27",
-      "dateLabel": "27.08.2026",
-      "time": "19:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Museum Charlottenburg-Wilmersdorf in der Villa Oppenheimin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=284545&ls=30&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=285715&ls=20&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2947,7 +2397,18 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Ingeborg-Bachmann-Bibliothek (Stadtteilbibliothek West)in Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=287551&ls=30&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=287551&ls=20&c=4&date_start=26.08.2026",
+      "recurring": false
+    },
+    {
+      "title": "Filmreihe „Wir kommen wieder“",
+      "date": "2026-08-27",
+      "dateLabel": "27.08.2026",
+      "time": "19:00",
+      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
+      "location": "Museum Charlottenburg-Wilmersdorf in der Villa Oppenheimin Charlottenburg-Wilmersdorf",
+      "desc": "",
+      "link": "https://www.berlin.de/index.php?detail=284545&ls=20&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2958,7 +2419,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Kommunale Galeriein Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=283549&ls=30&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=283549&ls=20&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2969,7 +2430,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Kommunale Galeriein Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=283570&ls=30&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=283570&ls=20&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2980,7 +2441,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Museum Charlottenburg-Wilmersdorf in der Villa Oppenheimin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=283657&ls=30&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=283657&ls=20&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -2991,7 +2452,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Basement Berlinin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=283648&ls=30&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=283648&ls=30&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -3002,7 +2463,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Eberhard-Alexander-Burgh-Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=289601&ls=40&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=289601&ls=30&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -3013,7 +2474,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Eberhard-Alexander-Burgh-Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=276913&ls=40&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=276913&ls=30&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -3024,7 +2485,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=289787&ls=40&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=289787&ls=30&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -3035,7 +2496,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=287464&ls=40&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=287464&ls=30&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -3046,7 +2507,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Kommunale Galeriein Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=283549&ls=40&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=283549&ls=30&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -3057,7 +2518,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Kommunale Galeriein Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=283570&ls=40&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=283570&ls=30&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -3068,7 +2529,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Museum Charlottenburg-Wilmersdorf in der Villa Oppenheimin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=283657&ls=40&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=283657&ls=30&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -3079,7 +2540,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Adolf-Reichwein-Bibliothek  (Rathaus Schmargendorf)in Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=289154&ls=40&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=289154&ls=30&c=4&date_start=26.08.2026",
       "recurring": false
     },
     {
@@ -3090,18 +2551,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Basement Berlinin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=283648&ls=40&c=4&date_start=25.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "I WRITE – Schreibclub/Writing Club",
-      "date": "2026-08-29",
-      "dateLabel": "29.08.2026",
-      "time": "14:30–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=244240&ls=40&c=4&date_start=25.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=283648&ls=30&c=4&date_start=26.08.2026",
       "recurring": false
     }
   ]
