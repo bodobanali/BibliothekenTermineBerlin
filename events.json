@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T10:27:15.346265+00:00",
+  "generatedAt": "2026-08-31T11:32:01.106138+00:00",
   "monthsCovered": [
     "2026-08"
   ],
@@ -25,28 +25,6 @@
   ],
   "events": [
     {
-      "title": "Kunst im Hansaviertel - Führung mit Camille Compere",
-      "date": "2026-08-30",
-      "dateLabel": "30.08.2026",
-      "time": "11:00–13:00",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Hansabibliothekin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=285271&ls=0&c=327&date_start=30.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Fadendruck-Workshop: Kunst mit Linie und Struktur",
-      "date": "2026-08-30",
-      "dateLabel": "30.08.2026",
-      "time": "14:00–17:00",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Schiller-Bibliothekin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=285262&ls=0&c=327&date_start=30.08.2026",
-      "recurring": false
-    },
-    {
       "title": "„Hier lebe ich, hier wähle ich!“ Symbolwahl in Berlin-Mitte",
       "date": "2026-08-31",
       "dateLabel": "31.08.2026",
@@ -54,7 +32,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Philipp-Schaeffer-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=288887&ls=0&c=327&date_start=30.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=288887&ls=0&c=327&date_start=31.08.2026",
       "recurring": false
     },
     {
@@ -65,7 +43,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=285670&ls=0&c=327&date_start=30.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=285670&ls=0&c=327&date_start=31.08.2026",
       "recurring": false
     },
     {
@@ -76,7 +54,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=283918&ls=0&c=327&date_start=30.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=283918&ls=0&c=327&date_start=31.08.2026",
       "recurring": false
     },
     {
@@ -87,7 +65,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek Tiergarten-Südin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=223074&ls=0&c=327&date_start=30.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=223074&ls=0&c=327&date_start=31.08.2026",
       "recurring": false
     },
     {
@@ -98,7 +76,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek Tiergarten-Südin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=289262&ls=0&c=327&date_start=30.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=289262&ls=0&c=327&date_start=31.08.2026",
       "recurring": false
     },
     {
@@ -109,7 +87,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=285670&ls=0&c=327&date_start=30.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=285670&ls=0&c=327&date_start=31.08.2026",
       "recurring": false
     },
     {
@@ -120,7 +98,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Kurt-Tucholsky-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=233446&ls=0&c=327&date_start=30.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=233446&ls=0&c=327&date_start=31.08.2026",
       "recurring": false
     },
     {
@@ -131,18 +109,29 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=290831&ls=0&c=327&date_start=30.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=289883&ls=0&c=327&date_start=31.08.2026",
       "recurring": false
     },
     {
-      "title": "ABGESAGT: Lesung: Die Glorreichen 77. Rache kennt keinen Ruhestand",
-      "date": "2026-08-30",
-      "dateLabel": "30.08.2026",
-      "time": "19:00",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Sommergarten Filmtheater am Friedrichshainin Pankow",
+      "title": "Berufliche Beratung",
+      "date": "2026-08-31",
+      "dateLabel": "31.08.2026",
+      "time": "15:00–18:30",
+      "library": "Stadtbibliothek Berlin-Mitte",
+      "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=288077&ls=0&c=409&date_start=30.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=290831&ls=0&c=327&date_start=31.08.2026",
+      "recurring": false
+    },
+    {
+      "title": "Offenes Nähcafé",
+      "date": "2026-08-31",
+      "dateLabel": "31.08.2026",
+      "time": "16:00–19:00",
+      "library": "Stadtbibliothek Berlin-Mitte",
+      "location": "Philipp-Schaeffer-Bibliothekin Mitte",
+      "desc": "",
+      "link": "https://www.berlin.de/index.php?detail=250606&ls=0&c=327&date_start=31.08.2026",
       "recurring": false
     },
     {
@@ -153,7 +142,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bibliothek am Wasserturmin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=279628&ls=0&c=409&date_start=30.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=279628&ls=0&c=409&date_start=31.08.2026",
       "recurring": true
     },
     {
@@ -164,7 +153,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Kurt-Tucholsky-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=276361&ls=0&c=409&date_start=30.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=276361&ls=0&c=409&date_start=31.08.2026",
       "recurring": true
     },
     {
@@ -175,7 +164,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bibliothek am Wasserturmin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=242077&ls=0&c=409&date_start=30.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=242077&ls=0&c=409&date_start=31.08.2026",
       "recurring": true
     },
     {
@@ -186,7 +175,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=275212&ls=0&c=409&date_start=30.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=275212&ls=0&c=409&date_start=31.08.2026",
       "recurring": true
     },
     {
@@ -197,7 +186,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=271021&ls=0&c=409&date_start=30.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=271021&ls=0&c=409&date_start=31.08.2026",
       "recurring": true
     },
     {
@@ -208,7 +197,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=270247&ls=0&c=409&date_start=30.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=270247&ls=0&c=409&date_start=31.08.2026",
       "recurring": true
     },
     {
@@ -219,7 +208,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bettina-von-Arnim-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=242011&ls=0&c=409&date_start=30.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=242011&ls=0&c=409&date_start=31.08.2026",
       "recurring": true
     },
     {
@@ -230,7 +219,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Heinrich-Böll-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=290330&ls=0&c=409&date_start=30.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=290330&ls=0&c=409&date_start=31.08.2026",
       "recurring": true
     },
     {
@@ -241,8 +230,19 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=290741&ls=0&c=409&date_start=30.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=290741&ls=0&c=409&date_start=31.08.2026",
       "recurring": false
+    },
+    {
+      "title": "Bindungshunger - Selbsthilfegruppe zum Thema Essstörung",
+      "date": "2026-08-31",
+      "dateLabel": "31.08.2026",
+      "time": "19:00–21:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Kurt-Tucholsky-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/index.php?detail=271162&ls=0&c=409&date_start=31.08.2026",
+      "recurring": true
     }
   ]
 }
